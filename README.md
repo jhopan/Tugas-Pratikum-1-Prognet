@@ -244,7 +244,7 @@ php artisan serve --port=8001
 This project is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 ## 👨‍💻 Author
-
+Jhosua Armando Putra Panjaitan
 **Repository**: https://github.com/jhopan/Tugas-Pratikum-1-Prognet.git
 
 ---
