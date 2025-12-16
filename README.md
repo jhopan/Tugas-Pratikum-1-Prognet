@@ -245,7 +245,9 @@ This project is open-sourced software licensed under the [MIT license](https://o
 
 ## 👨‍💻 Author
 Jhosua Armando Putra Panjaitan
+
 Rafly Kusuma
+
 **Repository**: https://github.com/jhopan/Tugas-Pratikum-1-Prognet.git
 
 ---
